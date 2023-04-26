@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802519688722",
+    "project_id": "flutterparcial-3154e",
+    "storage_bucket": "flutterparcial-3154e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802519688722:android:4e8ef2cd50eb1d14449acb",
+        "android_client_info": {
+          "package_name": "com.example.parcial2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802519688722-9m8taakmoj4a46rsuur86l93k8nkgdds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClGIhru8FVIcwbA1vDEcDXLNEPS6MloYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802519688722-9m8taakmoj4a46rsuur86l93k8nkgdds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
